@@ -1,0 +1,162 @@
+[
+    {
+        "Sentence": "Online group buying is an effective marketing method. By using online group buying, customers get unbelievable discounts on premium products and services. This not only meets customer demand, but also helps sellers to find new ways to sell products sales and open up new business models, all parties benefit in these transactions. During these bleak economic times, group buying has become extremely popular. The online group buying behavior in Taiwan should be investigated. Therefore, customer insights should be extracted from online group buying customers in Taiwan.",
+        "Label": "Association Rule "
+    },
+    {
+        "Sentence": "Customer segmentation and pattern extraction is one of the key aspects of business decision support system. In order to grow the business intelligently in competitive market, identification of potential customer should be done timely. Therefore, target customers should be identified and their associated buying patterns should be discovered.",
+        "Label": "Association Rule "
+    },
+    {
+        "Sentence": "When users choose a product, they consider the emotional experience triggered by the product form. In view of the fact that traditional kansei engineering can not effectively reflect the complex and changeable psychological factors of users, and it has not explored the complex relationship between customer satisfaction and perceptual demand characteristics. Therefore, the significant relationships between user needs and product morphological features should be extracted.",
+        "Label": "Association Rule "
+    },
+    {
+        "Sentence": "The management and controlling of product costs play an important role in the early stages of value creation, since 70 - 80 % final product costs are determined in product development and design processes. Traditionally, the focus in business practice is often on the organizational controlling unit that records the corresponding costs when they occur. In those, later phases of the product lifecycle, the possibilities of exerting influence are very limited. Consequently, an accurate estimation of costs in the early design phase is an important instrument to support strategic decisions in the product engineering process. Therefore the cost management should be supported in the early design stage by predicting the costs of product components. ",
+        "Label": "Regression"
+    },
+    {
+        "Sentence": "CAD assembly models should be categorized into different assembly groups.",
+        "Label": "Clustering"
+    },
+    {
+        "Sentence": "The ability to predict thermal fatigue life accurately is extremely valuable to the industry, as it saves time and reduces costs in product development and optimization. Therefore, the long-term reliability of lead-free Sn96.5Ag3.0Cu0.5 (SAC305) for three commonly used surface finishes—OSP, ENIG, and IAg—should be predicted.\n",
+        "Label": "Regression"
+    },
+    {
+        "Sentence": "Understanding of product evolution mechanism is required for design adaptations through rationalized modularity and interfaces. Emerging big sales data provide rich resources for product evolution analysis. Reproduction, mutation, and crossover of product specifications are used as specification adaptation operations. Based on modeling and analyzing the relationships among product specifications and components, different types of modules and interfaces should be grouped.",
+        "Label": "Clustering"
+    },
+    {
+        "Sentence": "The design space should be explored to systematically reduce it to a relatively small region. Therefore, through resampling within the preliminary reduced space, sample points should be grouped to identify the most attractive group, which will then be used to construct a kriging model and identify the design optimum within the reduced design space.",
+        "Label": "Clustering"
+    },
+    {
+        "Sentence": "The patent database is often used by designers to search for inspirational stimuli for innovative design opportunities because of the large size, extensive variety, and the massive quantity of design information contained in patent documents. Growing work on designby-analogy has adopted various vectorization approaches for associating design documents. However, they only focused on text analysis and ignored visual information. Research in engineering design and cognitive psychology has shown that visual stimuli may benefit design ideation. In this study, we focus on visual design stimuli and automatically derive the vector space and the design feature vectors representing design images. Therefore, the visual material-type and the international patent classification (IPC) section label should be predicted.",
+        "Label": "Classification"
+    },
+    {
+        "Sentence": "In order to target different customer segments, potential customer demands should be predicted.",
+        "Label": "Classification"
+    },
+    {
+        "Sentence": "Analyzing complex 3D models using finite element analysis software requires suppressing parts that are unlikely to influence the analysis results, but may significantly improve computational performance in terms of mesh size and quality. Therefore, feature suppression rules should be defined.",
+        "Label": "Association Rule "
+    },
+    {
+        "Sentence": "Product development insights may be found through user reviews on App stores, product forums, and social media. This feedback is often regarded as the “voice of the users”. This feedback has been subject to a lot of recent research, intending to create systems that can automatically extract, filter, analyze, and report the concerned feedback data in near real time. As per our survey results, often this user feedbacks do not reach the concerned organization promptly due to the volume, veracity, and velocity offeedback frommultiple channels. In this researchwork, we propose using sentiment analysis and social media mining an automatic engine which can be used for better product recommendation and automatic routing of relevant feedback to the productdevelopment teams. A solution is sought to run at regular intervals, pulling dynamic reviews in an optimized manner with lower time complexity and higher efficiency. The reviews are collated from distributed platforms and must be classified according to the respective enterprises. A sentiment analysis method is needed that uses polarity to determine if the feedback is positive or negative.",
+        "Label": "Classification"
+    },
+    {
+        "Sentence": "A Training set has been build from data recorded in 98 crash simulations that adhere to FMVSS208, the America occupant crash protection testing standard. The relationship between design parameters and system effectiveness should be inferred in order to identify the interrelations between key design parameters and the performance of the occupant restraint system in crash simulations.",
+        "Label": "Classification"
+    },
+    {
+        "Sentence": "Product identity (PI) can form the continuity of enterprise products, and is of positive significance to the brand image. Therefore, a method to establish a product identity system based on the company's existing products should be explored. First, appropriate product form features should be selected, and the values of each sample's features should be acquired using the semantic differential method. The initial categorization has been provided based on the designers' experience, after which the information should be further categorized.",
+        "Label": "Clustering"
+    },
+    {
+        "Sentence": "In present competitive environment, it is necessary for companies to evaluate design time and effort at the early stage of product development. However, there is somewhat lacking in systemic analytical methods for product design time (PDT). For this end, this paper explores an intelligent method to evaluate the PDT. At the early development stage, designers are short of sufficient product information and have difficulty in determining PDT by subjective evaluation. Thus, a fuzzy measurable house of quality (FM-HOQ) model has been created to provide measurable engineering information. Quality function deployment (QFD) is combined with a mapping pattern of “function → principle → structure” to extract product characteristics from customer demands. The data should be fused, and the PDT should be estimated.",
+        "Label": "Regression"
+    },
+    {
+        "Sentence": "Universal design is a concept intended to promote the development of products and environments equally usable by all the users, benefits of which are well established. Earlier efforts to provide guidelines for universal design have not adequately supported industry requisites. Therefore, design guidelines applicable at the early stage for universal design should be created.",
+        "Label": "Association Rule "
+    },
+    {
+        "Sentence": "Aspect-Based Sentiment Analysis (ABSA) is essential in industries such as healthcare, automotive, and finance, where understanding customer feedback is crucial for business strategies and product development. Traditional sentiment analysis methods often fail to account for specific aspects, providing only generalized sentiment scores (polarities).  Therefore, a solution for accurately classifying aspect-based sentiment polarity is sought. Additionally, aspect-based sentiment polarity should be categorized as positive, negative, or neutral.",
+        "Label": "Classification"
+    },
+    {
+        "Sentence": "To simplify the complex traditional cost estimation process, the costs of plastic injection products and molds should be estimated.",
+        "Label": "Regression"
+    },
+    {
+        "Sentence": "New Product Development (NPD) is to stay competitive; it is seen as one of the finest techniques to cope with quick changes in the goods confronting the market. Researchers have adjusted the measurements to become some NPD so that research variables may impact the firm, but they have not attempted to measure. The measuring component is crucial to give proper control over product development operations. It will employ a web-based tool for monitoring the growth of NPD skills in the field area. If the organization has identified an essential mastering function, you may create long-term objectives. The value of the capacity level as NPD should be suggested and the results of the NPD should be predicted based on the realationship between the selection of key metrics and the accumulation of factors contributing to success. ",
+        "Label": "Regression"
+    },
+    {
+        "Sentence": "The knowledge database of the supplier characteristics involved in the product cooperation design is provided, based on the aggregation chains. The relationship that the components of the supplier's characteristics must satisfy the product reliability requirements needs to be identified.",
+        "Label": "Association Rule "
+    },
+    {
+        "Sentence": "Understanding the perceptions of consumers is widely recognized as a critical element in the innovation of new products. Traditional techniques used by companies to collect essential consumer insights have largely remained unchanged. Common practices like interviews and surveys have distinct limitations. Interviews may not always capture the precise needs of consumers due to communication barriers, and surveys tend to encourage incremental changes rather than radical innovations. Service industries face further complexity as they navigate customer feedback on the more intangible aspects of service quality. The Voice of the Customer (VoC) should be extracted. ",
+        "Label": "Classification"
+    },
+    {
+        "Sentence": "The simulation of product behavior is a vital part of current virtual product development. It can be expected that soon there will be more product simulations due to the availability of easy-to-use finite element analysis software and computational power. Consequently, the amount of accessible new simulation data adds up to the already existing amount. However, even when using easy-to-use finite element software tools, errors can occur during the setup of finite element simulations, and users should be warned about certain mistakes by automatic algorithms. To leverage the vast amount of available finite element simulations for a data-driven finite element support tool, an automatic plausibility check for new simulations, based on previous simulation data, should be performed.",
+        "Label": "Classification"
+    },
+    {
+        "Sentence": "In the initial stage of product design, it is essential to define product specifications according to various market niches. An important issue in this process is to provide designers with sufficient design knowledge to find out what customers really want. Therefore, rules that represent the mapping relationship between customer needs and product specifications should be identified.",
+        "Label": "Association Rule "
+    },
+    {
+        "Sentence": "Product design structure grouping is an important aspect of product module design, as it helps the team better understand and organize the product's structure, improving development efficiency and quality. Therefore, product design structures should be divided hierarchically.",
+        "Label": "Clustering"
+    },
+    {
+        "Sentence": "Based on the scanned data of a spur gear in point cloud format, the smooth curve should be reconstructed.",
+        "Label": "Clustering"
+    },
+    {
+        "Sentence": "One of the main activities in User Centred Design (UCD) is prototype evaluation, which is traditionally performed by means of an Evaluation Stage that looks for the redefinition of the prototype requirements, involving quantitative and qualitative usability testing techniques.Therefore, ambiguous user statements in natural language should be analyzed and interpreted.",
+        "Label": "Association Rule "
+    },
+    {
+        "Sentence": "The cost budget and resources of a business are limited. In order to be competitive sustainably in the market, it is necessary for a businesses to discover the improvement priorities of their product/service features effectively and allocate their resources appropriately for higher customer satisfaction. A product/service's improvement priorities should be identified through dynamic importance-performance analysis of online customer reviews. Similar features have been grouped into feature groups, and the relative performance of these groups has been calculated. The importance of each feature group's performance to overall customer satisfaction has been measured using factor categories. The positive and negative sentiment polarities should be identified to determine the factor categories.",
+        "Label": "Classification"
+    },
+    {
+        "Sentence": "The planning and control of product development are based on the pre-estimation of product design time (PDT). To optimize the product development process (PDP), it is essential for managers and designers to evaluate design time and effort at the early stages of product development. Quality function deployment (QFD) is combined with a mapping pattern of 'function → principle → structure' to extract product characteristics from customer demands. The data should be integrated and used to enable the estimation of PDT.",
+        "Label": "Regression"
+    },
+    {
+        "Sentence": "Based on a set of 2D projected views generated from multiple viewpoints evenly distributed on the viewing sphere of a CAD model, the representative views of the 3D model should be selected from the set.",
+        "Label": "Association Rule "
+    },
+    {
+        "Sentence": "The descriptions of capabilities of manufacturing companies can be found in multiple locations including company websites, legacy system databases, and ad hoc documents and spreadsheets. The capability descriptions are often represented using natural language. Suppliers should be categorized based on their capabilities. A dataset containing 150 capability descriptions, collected from web-based sourcing directories such as the ThomasNet directory for manufacturing companies, is available.",
+        "Label": "Clustering"
+    },
+    {
+        "Sentence": "An accurate forecast of the final manufacturing costs in the early product development phase is a key element, especially in mechanical engineering. An accurate and reliable prediction allows, on the one hand, estimating the economic feasibility and, on the other hand, deriving necessary cost reductions. It is essential to evaluate and monitor compliance with the cost target initially and throughout the entire development process. Most cost estimation methods are primarily based on simple heuristic and statistical approaches that provide only limited accurate predictions in the early development phase. Sufficiently precise cost estimations, especially for customer-specific developments, are only possible in the late phase of the development process using finely parameterized models and cost rates at the component level. The manufacturing costs in mechanical engineering in the early phase of product development should be predicted.",
+        "Label": "Regression"
+    },
+    {
+        "Sentence": "Agile methodology is adopted by most of the corporate industries in the current scenario. Agile is widely preferred for its ability to adapt to frequently changing requirements where prioritization of requirements plays a major role. Therefore, the most frequently asked requirements, which in turn help reduce stakeholder conflict, should be identified.",
+        "Label": "Association Rule "
+    },
+    {
+        "Sentence": "Design space exploration is usually required during the conceptual design of hypersonic vehicle. Therefore, the variation in the maximum takeoff weight (MTOW) of hypersonic vehicles as the wing configuration changes should be investigated. The MTOW should be predicted by incorporating the prior knowledge of engineers.",
+        "Label": "Regression"
+    },
+    {
+        "Sentence": "In the conceptual design stage, designers usually begin the design process by referencing previous design cases similar to the one they are currently working on. Reviewing similar design cases can inspire a new idea and also shorten the design lead-time. Therefore, designs based on geometric similarity should be identified.. ",
+        "Label": "Classification"
+    },
+    {
+        "Sentence": "With the development of the controllable suspension systems, the mono-tube hydraulic adjustable damper has attracted great public attention with the advantages such as good heat dissipation, less power, fast response, durable, reliable, and simple structure. However, the unknown regulating mechanism modeling impedes the practical application of the mono-tube hydraulic adjustable damper. Based on the verified analytical model and thermal effect equations, a compensation system should be designed to model the regulating mechanism of the mono-tube hydraulic adjustable damper. This system should enable the adaptive and precise achievement of the desired damping force under various working conditions by determining the required rotary angle of the adjustment rod.",
+        "Label": "Regression"
+    },
+    {
+        "Sentence": "Modular design can shorten the product development cycle and enhance the product research and development capability of enterprises. Therefore, the functional modules should be divided.",
+        "Label": "Clustering"
+    },
+    {
+        "Sentence": "The conceptual design of an aircraft involves multiple multidisciplinary analyses to achieve the optimal configuration in accordance with market and certification requirements. Based on a database containing over one hundred thousand configurations, aerodynamic drag should be calculated.",
+        "Label": "Regression"
+    },
+    {
+        "Sentence": "It is widely recognized that product portfolio planning has a significant impact on a company's business success in a competitive environment. In the process of knowledge discovery from past sales and product records, groups of functional requirements should be identified.",
+        "Label": "Clustering"
+    },
+    {
+        "Sentence": "The process of classifying a small text piece into positive, negative or neutral is called as Sentiment Analysis. For example, if a message is considered, then the meaning of the sentence is identified and then analysis of the sentence has to be done. Based on an existing dataset, the polarity of the comments should be categorized for sentiment analysis.",
+        "Label": "Classification"
+    },
+    {
+        "Sentence": "During the course of development of Mechanical Engineering, a large number of mechanisms (that is, linkages to perform various types of tasks) have been conceived and developed. Quite a few atlases and catalogues were prepared by the designers of machines and mechanical systems. In order to handle the large list of mechanisms, they should be grouped together based on an adequate number of appropriately chosen attributes (also called characteristics).",
+        "Label": "Clustering"
+    }
+]

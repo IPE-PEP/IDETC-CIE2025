@@ -1,0 +1,43 @@
+Topic: Product development
+Keywords: “design engineering“, “engineering design”, “product development”, "problem definition", "conceptual design", "embodiment design", "detailed design", "CAD", "computer aided design", "requirements engineering", "customer segmentation", "product portfolio", "product family", "assembly", "product configuration*", "engineering change", "product variant", "customer need", "customisation", "requirements", "design rules", "parameter variation", "design parameter", "model retrieval", "variant design", "product specification"
+
+Topic: Machine learning
+Keywords: “machine learning”, “ml”, "artificial intelligence", "ai", "data science", "data mining", "data-driven", "supervised learning", "unsupervised learning", "reinforcement learning", "generative ai", "deep learning", "design automation", "data driven design", "association rule*", "apriori", "fp-growth", "eclat", "Fuzzy association rule mining", "FARM", "clustering", "hierarchical clustering", "DBSCAN", "kmeans", "k-means", "k-medoids", "kmedoids", "agglomerative*",  "classification", "regression", "neural network", "support vector machine", "decision tree", "random forest", "k nearest neighbour", "gradient boosting", "XGBoost", "decision tree", "random forest", "k nearest neighbour", "Naive Bayes", "decision tree", "random forest", "k nearest neighbour", "Naive Bayes"
+
+Search strings
+(“design engineering“ OR “engineering design” OR “product development” OR "problem definition" OR "conceptual design"  OR "embodiment design " OR "detailed design") AND (“machine learning ” OR “ml” OR "artificial intelligence" OR "ai" OR "data science" OR "data mining" OR "data-driven" OR "supervised learning" OR "unsupervised learning" OR "reinforcement learning"  OR "generative ai" OR "deep learning" OR "design automation" OR "data driven design")
+(“design engineering“ OR “engineering design” OR “product development” OR "problem definition" OR "conceptual design"  OR "embodiment design " OR "detailed design") AND ("association rule*" OR "apriori" OR "fp-growth" OR "eclat" OR "Fuzzy association rule mining" OR "FARM")
+("CAD" OR "computer aided design") AND ("apriori" OR " fp-growth " OR " eclat " OR " fuzzy association rule mining ")
+("requirements engineering" OR "customer segmentation" OR "product portfolio" OR "product family" OR "assembly" OR "product configuration*" OR "engineering change" OR "product variant") AND ("association rule*" OR "apriori" OR "fp-growth" OR "eclat" OR "Fuzzy association rule mining") 
+( "customer need" OR "customisation" OR "requirements" OR "design rules" OR "parameter variation" OR "design parameter" OR "model retrieval" OR "variant design" OR "product specification") AND ("association rule*" OR "apriori" OR "fp-growth" OR "eclat" OR "Fuzzy association rule mining") 
+(“design engineering“ OR “engineering design” OR “product development” OR "problem definition" OR "conceptual design"  OR "embodiment design " OR "detailed design") AND ("clustering" OR "hierarchical clustering" OR "DBSCAN" OR "kmeans" OR "k-means" OR "k-medoids" OR "kmedoids" OR "agglomerative*")
+(“design engineering“ OR “engineering design” OR “product development” OR "problem definition" OR "conceptual design"  OR "embodiment design " OR "detailed design") AND ( "classification" OR "regression" OR "neural network" OR "support vector machine" OR "decision tree" OR "random forest" OR "k nearest neighbour" OR "gradient boosting" OR "XGBoost" ) AND NOT ( "architecture" OR "medicine" OR "manufacturing" OR "teach*" OR "genetic" OR "evolutionary" )
+("requirements engineering" OR "customer segmentation" OR "product portfolio" OR "product family" OR "assembly" OR "product configuration*" OR "engineering change" OR "product variant") AND ( "decision tree" OR "random forest" OR "k nearest neighbour" OR "Naive Bayes" ) AND NOT ( "architecture" OR "medicine" OR "manufacturing" OR "teach*" OR "genetic" OR "evolutionary" OR "regression" )
+( "customer need" OR "customisation" OR "design parameter" OR "model retrieval" OR "variant design" OR "product specification" OR "CAD" OR "computer aided design" ) AND ( "decision tree" OR "random forest" OR "k nearest neighbour" OR "Naive Bayes" ) AND NOT ( "architecture" OR "medicine" OR "manufacturing" OR "teach*" OR "genetic" OR "evolutionary" OR "regression" OR "disease" )
+
+Applied restrictions in Scopus
+- Topic search: Title, abstract, keywords
+- Subject area: Engineering
+- Document type: Limited to article, limited to conference paper
+- Language: English
+- Year: 2004 - 2024
+
+Applied restrictions in Web of Science:
+- Topic search: Title, abstract, keywords, keywords+
+- Subject area: Engineering
+- Document type: Limited to article, limited to proceeding paper
+- Language: English
+- Year: 2004 - 2024
+
+Inclusion criteria – The publication is included if…
+1 …it belongs to conference papers or journal articles.
+2 …it was published between 2004 and 2024.
+3 …it is written in English.
+4 …it focuses on the application of specific ML algorithms to solve product development-related problems.
+
+Exclusion criteria – The publication is excluded if…
+1 …it belongs to grey literature.
+2 …it does not focus on the application of ML algorithms.
+3 …it focuses exclusively on the use of optimization or non-ML-related algorithms.
+4 …it has no relation to product development.
+5 …it is not accessible.
